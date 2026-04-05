@@ -83,15 +83,15 @@ Select your language (English / Korean) and watch the AI war unfold.
 
 ## Contributing
 
-**Missing a historical event?** We want this to be as complete and accurate as possible.
+**Missing a historical event? Wrong year? Important figure not included?** We want this to be as complete and accurate as possible.
 
-If you know of an important AI milestone, paper, company, or moment that should be included:
+If you know of an important AI milestone, paper, company, or moment that should be included — or if you spot an incorrect date or missing detail:
 
 1. [Open an issue](https://github.com/leaf-kit/aiwars.game/issues) with the event details
 2. Include: year, what happened, why it matters, and any relevant links
 3. We'll review and add it to the next deployment
 
-All contributions are welcome — whether it's a forgotten paper from the 1980s or a breaking event from last week.
+**You can actively participate in improving the timeline** — fixing wrong years, adding missing events, suggesting new characters or models. All contributions are welcome — whether it's a forgotten paper from the 1980s, a breaking event from last week, or a correction to an existing entry.
 
 ---
 
