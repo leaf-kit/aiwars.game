@@ -75,7 +75,7 @@ The simulation runs itself. You just watch, learn, and think about the path forw
 
 ## Play Now
 
-### [http://leaf-kit.github.io/aiwars.game](http://leaf-kit.github.io/aiwars.game)
+### [https://leaf-kit.github.io/aiwars/](https://leaf-kit.github.io/aiwars/)
 
 Select your language (English / Korean) and watch the AI war unfold.
 
