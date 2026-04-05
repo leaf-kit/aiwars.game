@@ -4,7 +4,7 @@
 
 # AI WARS: THE SIMULATION
 
-[![Live Demo](https://img.shields.io/badge/PLAY-Live%20Demo-00ff00?style=for-the-badge&logo=github)](http://leaf-kit.github.io/aiwars.game)
+[![Live Demo](https://img.shields.io/badge/PLAY-Live%20Demo-00ff00?style=for-the-badge&logo=github)](http://leaf-kit.github.io/aiwars)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/leaf-kit/aiwars.game/issues)
 [![Contributions](https://img.shields.io/badge/Historical%20Events-Submit%20Issues-yellow?style=flat-square)](https://github.com/leaf-kit/aiwars.game/issues)
